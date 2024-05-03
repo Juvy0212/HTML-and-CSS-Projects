@@ -1,0 +1,20 @@
+
+table {
+  border: 1px solid silver;
+  width: 80%; 
+  margin: 0 auto; 
+}
+
+tr, th {
+  background-color: pink;
+  color: white;
+}
+
+td {
+  padding: 8px;
+}
+
+td:hover {
+  background-color: gold;
+  color: black;
+}
